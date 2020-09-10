@@ -13,12 +13,12 @@ Google Chrome extension that allows one to automatically delete any empty folder
    4. What I Learned
 
 
-1. Project Description
+1.) Project Description
    --------------------------------
 This Google Chrome extension allows one to delete empty folders in their bookmarks by clicking on the extension icon.
 
 
-2. Installation
+2.) Installation
    -------------------
 
    2.1 Installation Steps
@@ -35,7 +35,7 @@ Navigate to the path where you have saved the folder for this Chrome extension a
 
 To use the chrome extension, simply click the extension icon in your Chrome browser. All of your empty folders should be deleted after this click.
 
-3. Purpose
+3.) Purpose
    ------------
 
 The goal of this project is to improve organization and user readability of their bookmarks. I noticed that over time, many users will accumulate numerous bookmarks, and after 
@@ -43,7 +43,7 @@ rearranging and shuffling around their bookmarks within different folders, the r
 correct bookmark which effectively negates the purpose of making bookmarks. I wanted to take a step in resolving this issue by helping users automatically delete empty folders which 
 will ideally help “clean up” their bookmark space.
 
-4. What I Learned
+4.) What I Learned
    ------------
 
 During this project I learned and experienced the differences regarding back-end and front-end development. While my Chrome extension was very simple, I still learned that passing 
